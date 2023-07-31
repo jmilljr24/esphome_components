@@ -51,7 +51,7 @@ wifi:
     password: ""
 
 dashboard_import:
-  package_import_url: github://the78mole/esphome_components/components/km271_wifi/km271-for-friends.yaml@main
+  package_import_url: github://jmilljr24/esphome_components/components/km271_wifi/km271-for-friends.yaml@main
 
 captive_portal:
 #  keep_user_credentials: true
